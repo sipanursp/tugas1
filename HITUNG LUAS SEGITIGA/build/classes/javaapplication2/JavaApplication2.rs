@@ -1,0 +1,2 @@
+javaapplication2.HitungLuasSegitiga
+HitungLuasSegitiga
